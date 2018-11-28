@@ -6,3 +6,5 @@ Requirements:
 1. Flask
 2. termcolor python module
 3. Indian railway API key (you can get it here  https://railwayapi.com/)
+
+You can use it right at your terminal by typing: curl rkdhd.pythonanywhere.com/<trainNo>
